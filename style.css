@@ -1,36 +1,5 @@
-/* Requisitos do Bloco 03 - Dia 02*/
+/* CSS para Matheus Eduardo's Portfolio*/
 
-/* 1.Requisito: Defina fontes diferentes para o 
-seu nome e para a descrição que você criou*/
-#meunome{
-    font-family: monospace;
-}
 
-.minhadescricao{
-    font-family: courier;
-}
-/* 2.Requisito: Defina uma cor base de background 
-do seu Portfólio Web; */
-body{
-    background-color:#2ec18b;
-}
-/* 3.Requisito: Altere o estilo das tags que você 
-usou para destacar algumas informações, como sua 
-nacionalidade e a cidade/estado onde mora */
-strong{
-    font-style: italic;
-}
-/* 4.Requisito: Coloque tamanhos diferentes para os 
-elementos da lista de habilidades que você criou. 
-Lembre-se de usar classes para cada um dos elementos;*/
-.class-tam1{
-    font-size:x-large;
-}
-.class-tam2{
-    font-size:medium;
-}
-.class-tam3{
-    font-size: small;
-}
 
 
