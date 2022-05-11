@@ -1,5 +1,63 @@
 /* CSS para Matheus Eduardo's Portfolio*/
 
+body {
+    background-image: url(img/Background2.png);
+    background-position: 0;
+    background-size: cover;
+}
 
+h3 {
+    text-align:center;
+}
 
+.header-text {
 
+    color:#06223e;
+    background-color:#f6f7f6;
+    height: 300px;
+    opacity: 80%;
+    line-height: 20px;
+    text-align:justify;
+    padding: 70px 70px;
+    margin-left: 5%;
+    max-width: 40%;
+    margin-top: 5%;
+
+}
+
+.main {
+    max-width: 59%;
+    margin-left: 21px;
+}
+
+.section-text {
+    color: #06223e;
+    background-color:#f6f7f6;
+    opacity: 80%;
+    display: inline-block;
+    line-height: 20px;
+    width: 30%;
+    vertical-align: top;
+    margin-top: 1%;
+    margin-left: 5%;
+    max-width: 50%;
+
+  }
+
+.academica {
+    margin-left: auto;
+}
+
+.projetos {
+    margin-left: auto;
+}
+
+.footer {
+    color: #06223e;
+    background-color:#f6f7f6;
+    opacity: 80%;
+    margin-left: 5%;
+    max-width: 54%;
+    margin-top: -1%;
+    
+}
